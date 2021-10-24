@@ -1,4 +1,4 @@
-from funcs import process_input
+from backend.funcs import process_input
 
 if __name__ == '__main__':
 
