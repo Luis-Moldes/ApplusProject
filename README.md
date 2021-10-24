@@ -7,7 +7,7 @@ The assignment read as follows:
 
 The program must obtain the final position of these rovers from the inputted position and movement information. This will be performed by sequentially reading the movement commands for each of the rovers, updating either the position or the orientation at each given step. 
 
-Two different ways of inputting the initial conditions and commands have been implemented: a more direct one where an *input.txt* file is directy read, and a more UI-like one where the user inputs each lines as reponses to queries in the command prompt. The exact format of the inputs and outputs will be laid out in their corresponding sections. 
+Two different ways of inputting the initial conditions and commands have been implemented: a more direct one where an *input.txt* file is automatically read, and a more UI-like one where the user inputs each lines as responses to queries in the command prompt. The exact format of the inputs and outputs will be laid out in their corresponding sections. 
 
 
 ## Preliminary processes
